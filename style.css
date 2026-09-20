@@ -1,6 +1,6 @@
 body {
     font-family: Arial, sans-serif;
-    background-color: white;
+    background-color: lightblue;
 }
 
 .login {
@@ -19,4 +19,6 @@ input {
 
 button {
     padding: 10px 20px;
+    background-color: blue;
+    color: white;
 }
